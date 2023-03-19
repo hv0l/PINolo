@@ -24,3 +24,8 @@ The script will attempt to input PIN codes, incrementing the digits from left to
 ## Disclaimer
 
 The script is provided for educational purposes and testing the security of your own devices. Unauthorized access to someone else's device or data is illegal and unethical.
+
+
+
+https://user-images.githubusercontent.com/61795418/226213075-10517a77-1ec6-460f-b330-8347564b8721.mp4
+
